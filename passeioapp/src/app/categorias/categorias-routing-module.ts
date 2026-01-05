@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { Categoria } from '../categoria/categoria/categoria';
+import { Categoria } from '../categoria/categoria/categoria.Component';
 
 const routes: Routes = [{
   path:'',
